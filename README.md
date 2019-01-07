@@ -1,4 +1,4 @@
-# **React Tamagotchi**
+# **[React Tamagotchi](https://reactive-tamagotchi.firebaseapp.com/)**
 
 #### _A digital pet application built with React, 11.15.2018_
 
@@ -10,6 +10,8 @@
 This application is a digital pet game in the style of Tamagotchi. Each character has different needs that change over time. The user begins by selecting a character to play. Once the timer begins, the character's stat levels (food, sleep, play) will begin to decrease with time. The user must click the appropriate buttons to replenish the character's stat levels. If any of the character's levels reach zero, the game is over.
 
 ## Setup/Installation Requirements
+
+To view live site, please visit https://reactive-tamagotchi.firebaseapp.com/
 
 * Clone repository from [GitHub](https://github.com/ccook987/react-tamagotchi.git) to your computer
 * In Terminal, navigate to program directory
